@@ -12,12 +12,14 @@ The evething on objection detection in the real industrail scenarios.
 [7.Other Resources and Applications (其他领域资源和应用)] | Medical feild && health monitoring |
 
 
-<span id="1">1.Paper</span>
+<h2 id="1">1.Paper (论文)</h2>
+<h2 id="2">2.Introduction and Tutorials (简介和入门教程)</h2>
+<h2 id="3">3.Code (代码)</h2>
+<h2 id="4">4.Projects (工业目标检测项目)</h2>
+<h2 id="5">5.Challenges (工业目标检测比赛)</h2>
+<h2 id="6">6.Datasets and Benchmarks (数据集)</h2>
+<h2 id="7">7.Other Resources and Applications (其他领域资源和应用)]</h2>
 
-1.Paper
-2.Introduction and Tutorials (简介和入门教程)
-3.Code (代码)
-4.Projects (工业目标检测项目)
-5.Challenges (工业目标检测比赛)
-6.Datasets and Benchmarks (数据集)
-7.Other Resources and Applications (其他领域资源和应用)]
+
+
+
