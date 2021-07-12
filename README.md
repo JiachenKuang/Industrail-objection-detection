@@ -12,6 +12,7 @@ The everything on objection detection in the real industrail scenarios
 [5.Challenges (工业目标检测比赛)](#5)
 [6.Datasets and Benchmarks (数据集)](#6)
 [7.Other Resources and Applications (其他领域资源和应用)](#7) | Medical feild && health monitoring |
+[Copyright notice (版权声明)](#8)
 
 <h2 id="1">1.Paper (论文)</h2>  
 
@@ -46,5 +47,7 @@ Codes here:
 <h2 id="7">7.Other Resources and Applications (其他领域资源和应用)]</h2>
 
 
+<h2 id="8">Copyright notice (版权声明)]</h2>  
 
-
+* This Github repo can be used by following the corresponding licenses. The copyrights of these materials are owned by corresponding publishers or organizations. If any of the authors or publishers have concerns, please contact me to delete or replace them
+* 这个仓库可以遵守相关的开源协议进行使用。这个仓库中包含有很多研究者的论文链接，文章可自行下载，仅作为学术研究使用
