@@ -1,4 +1,4 @@
-# Classic papers on objection detection
+# Classic papers on objection detection (OD)
 Classic models for objection detection： two-stage, one-stage and anchor-free  
 这里收录基本的目标检测算法：两阶段法和一阶段法
 
