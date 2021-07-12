@@ -9,4 +9,4 @@ The evething on objection detection in the real industrail scenarios.
 [4.Projects (工业目标检测项目)]
 [5.Challenges (目标检测比赛)]
 [6.Datasets and Benchmarks (数据集)]
-[7.Other Resources and Applications (其他领域资源和应用)]
+[7.Other Resources and Applications (其他领域资源和应用)] | Medical feild && health monitoring |
