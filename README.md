@@ -22,7 +22,12 @@ Three parts of the papers as follows
 * [Applications](https://github.com/JiachenKuang/Industrail_objection_detection/blob/master/paper/Applications)  
 
 <h2 id="2">2.Introduction and Tutorials (简介和入门教程)</h2>
-<h2 id="3">3.Code (代码)</h2>
+
+<h2 id="3">3.Code (代码)</h2>  
+
+Codes here:
+* [Classic objection detection code](https://github.com/JiachenKuang/Industrail_objection_detection/tree/master/code/classic%20models)  
+
 <h2 id="4">4.Projects (工业目标检测项目)</h2>
 <h2 id="5">5.Challenges (工业目标检测比赛)</h2>
 <h2 id="6">6.Datasets and Benchmarks (数据集)</h2>
