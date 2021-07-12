@@ -3,7 +3,7 @@ The evething on objection detection in the real industrail scenarios.
 
 | Contents | Remarks | 
 |:-|:-|
-[1.Paper (论文)]（#1）
+[1.Paper (论文)]（#1-Paper）
 [2.Introduction and Tutorials (简介和入门教程)]
 [3.Code (代码)]
 [4.Projects (工业目标检测项目)]
@@ -12,7 +12,7 @@ The evething on objection detection in the real industrail scenarios.
 [7.Other Resources and Applications (其他领域资源和应用)] | Medical feild && health monitoring |
 
 
-<h2 id="1">1.Paper</h2>
+<h2 id="1">1.P</h2>
 
 1.Paper
 2.Introduction and Tutorials (简介和入门教程)
