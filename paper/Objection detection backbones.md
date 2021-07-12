@@ -1,8 +1,8 @@
 # Classic papers on objection detection
-Classic models for objection detection： two-stage and one-stage  
+Classic models for objection detection： two-stage, one-stage and anchor-free  
 这里收录基本的目标检测算法：两阶段法和一阶段法
 
-## 1. two-stage methods
+## 1. Two-stage methods
 * R-CNN  
   ![image](https://github.com/JiachenKuang/Industrail_objection_detection/blob/master/image/paper/Objection%20detection%20backbones/R-CNN.png)
   * 2014-CVPR [Rich feature hierarchies for accurate object detection and semantic segmentation](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
@@ -15,4 +15,7 @@ Classic models for objection detection： two-stage and one-stage
   * Region proposal (selective search)+SPP+SVM
   * 空间金字塔池化层SPP，提取CNN特征，分开训练
 
-## 1. one-stage methods
+## 2. One-stage methods
+
+
+## 3. Anchor-free methods
