@@ -1,5 +1,6 @@
 # 工业目标检测 Industrail objection detection
-The evething on objection detection in the real industrail scenarios.
+The everything on objection detection in the real industrail scenarios  
+这里收录工业中目标检测方向的一切信息  
 
 | Contents | Remarks | 
 |:-|:-|
@@ -12,7 +13,12 @@ The evething on objection detection in the real industrail scenarios.
 [7.Other Resources and Applications (其他领域资源和应用)](#7) | Medical feild && health monitoring |
 
 
-<h2 id="1">1.Paper (论文)</h2>
+<h2 id="1">1.Paper (论文)</h2>  
+Note: a good website to see the latest arXiv preprints by search: [Objection detection](http://arxitics.com/search?q=objection+detection)  
+* CV backbones  
+* Objection detection backbones  
+* Applications  
+
 <h2 id="2">2.Introduction and Tutorials (简介和入门教程)</h2>
 <h2 id="3">3.Code (代码)</h2>
 <h2 id="4">4.Projects (工业目标检测项目)</h2>
