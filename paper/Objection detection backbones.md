@@ -2,7 +2,8 @@
 Classic models for objection detection： two-stage and one-stage
 这里收录基本的目标检测算法：两阶段法和一阶段法
 
-* R-CNN
+* R-CNN  
+  ![image](https://github.com/JiachenKuang/Industrail_objection_detection/blob/master/image/paper/Objection%20detection%20backbones/R-CNN.png)
   * CVPR-2014 [Rich feature hierarchies for accurate object detection and semantic segmentation](https://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
   * Regions with CNN features
   * 经典的两阶段方法
