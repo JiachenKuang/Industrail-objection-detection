@@ -38,5 +38,5 @@ let's read some papers
 
 * Efficientnet
   * ICML2019 [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a/tan19a.pdf)
-  * depth, width, resolution
+  * depth, width, resolution of CNN
   * 模型的复合扩张
