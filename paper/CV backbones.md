@@ -1,5 +1,6 @@
 # Awesome papers on computer vision 
-let's read some papers
+let's read some papers on CV  
+这里收录基本的视觉网络的文章
 
 * AlexNet
   * NeurIPS2012 [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
