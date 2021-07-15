@@ -10,7 +10,7 @@ The everything on objection detection in the real industrail scenarios
 [3.Code (代码)](#3)
 [4.Projects (工业目标检测项目)](#4)
 [5.Challenges (工业目标检测比赛)](#5)
-[6.Datasets and Benchmarks (数据集)](#6)
+[6.Datasets and Benchmarks (数据集和测试)](#6)
 [7.Other Resources and Applications (其他领域资源和应用)](#7) | Medical feild & health monitoring |
 [Copyright notice (版权声明)](#8)
 
